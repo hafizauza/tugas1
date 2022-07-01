@@ -1,0 +1,5 @@
+<?php
+
+echo "Nama : hafizauza\n";
+echo "NIM : 20090060\n";
+echo "Kelas : 4A";
